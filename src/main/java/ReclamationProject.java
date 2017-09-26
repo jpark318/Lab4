@@ -31,7 +31,6 @@ public class ReclamationProject {
         String result;
         String firstCopy = firstString;
         String secondCopy = secondString;
-
         if (firstCopy.length() > secondCopy.length()) {
             String temp = firstCopy;
             firstCopy = secondCopy;
